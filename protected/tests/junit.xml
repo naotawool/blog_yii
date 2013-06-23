@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="CommentTest" file="C:\study\htdocs\blog\protected\tests\unit\CommentTest.php" tests="1" assertions="9" failures="0" errors="0" time="1.700836">
+    <testcase name="testApprove" class="CommentTest" file="C:\study\htdocs\blog\protected\tests\unit\CommentTest.php" line="35" assertions="9" time="1.700836"/>
+  </testsuite>
+</testsuites>
