@@ -2,5 +2,5 @@ blog_yii
 ========
 
 ![image_usagi](./images/usagi.png)
-![image_db_server](./images/db-server.png)
+![Image DB Server](./images/db-server.png)
 
